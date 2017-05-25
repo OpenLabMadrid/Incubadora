@@ -1,5 +1,4 @@
 //-------------------------------OpenLabMadrid-------------------------------
-
 #include <DHT.h>
 
 #define DHTPIN 3    // Sensor connected to the pin 3
