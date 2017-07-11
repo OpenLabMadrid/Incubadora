@@ -9,7 +9,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 float e;  //error variable
 
-float T; //Time that Light bulb is turned down in an interval of 10 seconds
+float T; //Time that Light bulb is turned down in an interval of 5 seconds
 
 int objetivo = 35; //target temperature
 
